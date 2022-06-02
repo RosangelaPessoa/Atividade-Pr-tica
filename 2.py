@@ -1,7 +1,4 @@
-# 2 - Desenvolva um programa em Python utilizando uma Pilha de acordo com a situação problema: 
-#Armazene as placas dos carros de luxos (apenas os números) que estão estacionados em um rua sem saída.
-#Dado uma placa verifique se o carro está estacionado na rua. 
-#Caso esteja, informe a sequência de carros que deverá ser retirada para que o carro em questão consiga sair.
+# Q2
 
 import numpy as np
 
