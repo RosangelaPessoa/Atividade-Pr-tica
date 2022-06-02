@@ -1,4 +1,4 @@
-# 1 - Construa uma Pilha utilizando a linguagem Python. Dada uma sequência contendo N (N>0) números inteiros, imprimi-la na ordem inversa.
+# Q1
 
 seq = []
 while True:
