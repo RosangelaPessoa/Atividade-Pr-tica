@@ -1,5 +1,4 @@
-#4 - Construa uma Fila de Prioridade utilizando a linguagem Python em que 
-# sejam implementadas as funções para inserção de um novo elemento (inteiro) na fila e a remoção do elemento de mais alta prioridade 
+#Q4 
 import numpy as np
 
 class FilaPrioridade:
